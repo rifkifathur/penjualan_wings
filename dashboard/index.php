@@ -120,6 +120,7 @@ require_once("../auth.php");
 
 <body>
   <div class="w-50 m-auto container my-5">
+  <a class="btn btn-primary" href="../logout.php">Logout</a>
   <a href="pdf.php" target="_blank" class="btn btn-success">Report</a>
     <ul id="progressbar">
       <li class="active" id="first"></li>
