@@ -176,6 +176,9 @@ $saved2 = $stmt2->execute($params2);
         </ul>
         <h3>Terimakasih</h3>
     </div>
+    <script>
+        setTimeout("window.location='index.php'", 1000);
+    </script>
 </body>
 
 </html>
